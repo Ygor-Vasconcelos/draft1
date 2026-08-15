@@ -84,10 +84,10 @@ const CONFIG = {
   // ================================================================
   captains: [
     "Pedro",
-    "Abner",
+    "Bento",
     "Coutinho",
     "Gordo",
-    "Bento",
+    "Abner",
     "Henrique"
   ],
   // ================================================================
@@ -116,8 +116,6 @@ const CONFIG = {
     ["Lucas Rocha","craque"],
     ["João Gui","craque"],
     ["Arthur","craque"],
-    ["Coutinho","craque"],
-    ["Pedro","craque"],
     // ================================================================
     // 🔒 JOGADORES FIXOS DA EQUIPE 6
     // ================================================================
